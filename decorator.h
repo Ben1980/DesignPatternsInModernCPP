@@ -18,9 +18,7 @@ struct Flower
 struct Rose : Flower
 {
   std::string str() override {
-    std::ostringstream oss;
-    oss << "A rose";
-    return oss.str();
+    return "A rose";
   }
 };
 
