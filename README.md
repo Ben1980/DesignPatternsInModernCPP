@@ -5,7 +5,7 @@ Pattern example implementation based upon an [Udemy](https://www.udemy.com) Lect
 - [Builder](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/builder.h)
 - [Factories](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/factory.h)
 - [Prototype](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/prototype.h)
-- Singleton
+- [Singleton](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/singleton.h)
 - Adapter
 - Bridge
 - Composite
