@@ -3,6 +3,8 @@
 #include <vector>
 #include <utility>
 
+// CodeBuilder builds strings based on fields added by the user via add_field(...)
+// Example: CodeBuilder{"Person"}.add_field("name", "string").add_field("age", "int");
 class CodeBuilder
 {
 public:
