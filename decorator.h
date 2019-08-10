@@ -1,5 +1,4 @@
 #include <string>
-#include <sstream>
 
 // A Rose can be decorated with colors
 // Example:
