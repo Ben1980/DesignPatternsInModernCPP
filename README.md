@@ -3,7 +3,7 @@ Pattern example implementation based upon an [Udemy](https://www.udemy.com) Lect
 
 ## Patterns
 - [Builder](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/builder.h)
-- Factories
+- [Factories](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/factory.h)
 - Prototype
 - Singleton
 - Adapter
