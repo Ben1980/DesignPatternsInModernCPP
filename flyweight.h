@@ -2,7 +2,7 @@
 #include <vector>
 #include <sstream>
 
-// Lightweight data representation
+// External data representation, e.g. map, vector, etc
 // Example:
 // Sentence sentence("hello world");
 // sentence[1].capitalize = true;
