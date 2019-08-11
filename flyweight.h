@@ -38,7 +38,7 @@ public:
       
       if(token.capitalize) {
         for(size_t charIndex = 0; charIndex < token.word.length(); ++charIndex) {
-          auto c = toupper(token.word[charIndex]);
+          auto c = std::toupper(token.word[charIndex]);
           token.word[charIndex] = c;
         }
       }
