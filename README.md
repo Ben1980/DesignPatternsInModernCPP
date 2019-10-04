@@ -12,3 +12,4 @@ This repsoitory is meant to be as an introductionary help into patterns with C++
 - [Composite](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/composition.h)
 - [Decorator](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/decorator.h)
 - [Flyweight](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/flyweight.h)
+- [Proxy](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/proxy.h)
