@@ -13,3 +13,4 @@ This repsoitory is meant to be as an introductionary help into patterns with C++
 - [Decorator](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/decorator.h)
 - [Flyweight](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/flyweight.h)
 - [Proxy](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/proxy.h)
+- [Chain of Responsibility](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/chainOfResponsibility.h)
