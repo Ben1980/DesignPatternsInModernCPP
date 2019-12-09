@@ -15,3 +15,5 @@ This repsoitory is meant to be as an introductionary help into patterns with C++
 - [Proxy](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/proxy.h)
 - [Chain of Responsibility](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/chainOfResponsibility.h)
 - [Command](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/command.h)
+- [Interpreter](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/expressionProcessor.h)
+- [Iterator](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/iterator.h)
