@@ -18,3 +18,4 @@ This repsoitory is meant to be as an introductionary help into patterns with C++
 - [Interpreter](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/expressionProcessor.h)
 - [Iterator](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/iterator.h)
 - [Mediator](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/mediator.h)
+- [Memento](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/memento.h)
