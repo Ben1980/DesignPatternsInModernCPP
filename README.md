@@ -20,3 +20,4 @@ This repsoitory is meant to be as an introductionary help into patterns with C++
 - [Mediator](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/mediator.h)
 - [Memento](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/memento.h)
 - [Observer](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/observer.h)
+- [State](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/state.h)
