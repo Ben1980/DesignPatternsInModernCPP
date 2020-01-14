@@ -21,3 +21,4 @@ This repsoitory is meant to be as an introductionary help into patterns with C++
 - [Memento](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/memento.h)
 - [Observer](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/observer.h)
 - [State](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/state.h)
+- [Strategy](https://github.com/Ben1980/DesignPatternsInModernCPP/blob/master/strategy.h)
